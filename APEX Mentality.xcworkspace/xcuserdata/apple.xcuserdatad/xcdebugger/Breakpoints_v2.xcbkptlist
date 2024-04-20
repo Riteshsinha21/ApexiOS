@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "952604EF-3F91-46E7-A3F4-2549E8BF27C7"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "448C86C3-C3F2-4E1F-ADE6-FDFBA3ACC1C9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APEX Mentality/Chat/ReceiverCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "message"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APEX Mentality/Chat/ReceiverCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "ReceiverCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - 303af2e1413c2873"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.message.getter : Swift.Optional&lt;APEX_Mentality.Message&gt;"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "401">
+               </Location>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - 322722164616007f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.message.setter : Swift.Optional&lt;APEX_Mentality.Message&gt;"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "432">
+               </Location>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - 7f59bdfef962a26e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.message.modify : Swift.Optional&lt;APEX_Mentality.Message&gt;"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - a941046c3246cad2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.message.modify : Swift.Optional&lt;APEX_Mentality.Message&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "17">
+               </Location>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - 1a15e4aed901490b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.init(style: __C.UITableViewCellStyle, reuseIdentifier: Swift.Optional&lt;Swift.String&gt;) -&gt; APEX_Mentality.ReceiverCell"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "157">
+               </Location>
+               <Location
+                  uuid = "9A530B43-2F3F-44E4-96AC-93E05B118D33 - c43873bacd9ed89f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "APEX_Mentality.ReceiverCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;APEX_Mentality.ReceiverCell&gt;"
+                  moduleName = "APEX Mentality"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Desktop/Apex_Live/apexios/APEX%20Mentality/Chat/ReceiverCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "114">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "13756A27-1E54-4156-B223-46BB0A140475"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APEX Mentality/Chat/ReceiverCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "message"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "80BA5E7B-318C-499A-BE40-1D284F507687"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "APEX Mentality/Chat/ReceiverCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "message"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
